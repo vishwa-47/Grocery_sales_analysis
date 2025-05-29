@@ -4,7 +4,7 @@ I could not upload the dataset due to the size being more than 25 MB
 so here's the link for the dataset <a href = "https://archive.ics.uci.edu/dataset/352/online%2Bretail"> Link </a>
 
 
-You can find the Sql query that I used to get insights below < a href = "https://github.com/vishwa-47/Grocery_sales_analysis/blob/main/Grocery_sales.sql"> link </a>
+You can find the Sql query that I used to get insights below <a href = "https://github.com/vishwa-47/Grocery_sales_analysis/blob/main/Grocery_sales.sql"> link </a>
 
 
 ## ERD MODELING IN POSTGRE SQL
