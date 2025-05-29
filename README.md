@@ -1,7 +1,7 @@
 # Grocery_sales_analysis
 
 I could not upload the dataset due to the size being more than 25 MB 
-so here's the link for the dataset <a href = "https://archive.ics.uci.edu/dataset/352/online%2Bretail"> Link</a> or you can download this dataset from my Github repo <a href = "https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset"> Link </a>
+so here's the link for the dataset <a href = "https://archive.ics.uci.edu/dataset/352/online%2Bretail"> Link</a>
 
 
 ## ERD MODELING IN POSTGRE SQL
