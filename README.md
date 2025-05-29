@@ -114,6 +114,9 @@ CLV helps identify high-value customers for loyalty programs and personalized ma
 
 # Further analysis using power bi
 
+![Screenshot 2025-05-30 020312](https://github.com/user-attachments/assets/ba7a5927-aac0-4314-b82d-e0d17be670da)
+![grocerynew1](https://github.com/user-attachments/assets/57989a90-3353-49a0-ba71-001d2d33bba1)
+
 ![Screenshot 2025-05-30 015708](https://github.com/user-attachments/assets/402f2c82-275c-4830-9715-09389f1f8236)
 ![Screenshot 2025-05-30 015728](https://github.com/user-attachments/assets/a53c8882-46e7-4828-9a8b-530a0dd2e92b)
 
