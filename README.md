@@ -98,7 +98,11 @@ CLV helps identify high-value customers for loyalty programs and personalized ma
 
  # Overall Business Recommendations
 •	Focus marketing efforts on top-performing cities (like Lubbock) and days (Tuesdays).
+
 •	Promote high-margin categories such as Confections and Meat.
+
 •	Leverage customer segmentation to tailor promotional strategies, especially for medium spenders.
+
 •	Monitor seasonal trends to optimize stock and campaigns based on expected monthly revenues.
+
 •	Use CLV data to prioritize customer retention strategies for top spenders.
