@@ -109,3 +109,14 @@ CLV helps identify high-value customers for loyalty programs and personalized ma
 •	Monitor seasonal trends to optimize stock and campaigns based on expected monthly revenues.
 
 •	Use CLV data to prioritize customer retention strategies for top spenders.
+
+
+
+# Further analysis using power bi
+
+![Screenshot 2025-05-30 015708](https://github.com/user-attachments/assets/402f2c82-275c-4830-9715-09389f1f8236)
+![Screenshot 2025-05-30 015728](https://github.com/user-attachments/assets/a53c8882-46e7-4828-9a8b-530a0dd2e92b)
+
+
+
+
